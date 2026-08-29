@@ -8,6 +8,10 @@ Fades an LED with PWM.
 
 Source: https://randomnerdtutorials.com/esp32-pwm-arduino-ide/#esp32-pwm-controller
 
+<a href="https://youtu.be/n4pskPU4SnE">
+  <img src="https://img.youtube.com/vi/n4pskPU4SnE/0.jpg" alt="Watch the PWM controller video" width="480">
+</a>
+
 Folder: [`pwm_signal_example`](pwm_signal_example)
 
 ## Telegram output control
