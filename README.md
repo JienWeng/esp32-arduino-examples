@@ -1,11 +1,23 @@
-# Telegram ESP32/ESP8266 Output Control
+# ESP32 Arduino Examples
 
-Control an ESP32 or ESP8266 LED from Telegram.
+Small ESP32 examples from Random Nerd Tutorials.
 
-Repository: https://github.com/JienWeng/telegram-esp32-esp8266-output-control
+## PWM signal
+
+Fades an LED with PWM.
+
+Source: https://randomnerdtutorials.com/esp32-pwm-arduino-ide/#esp32-pwm-controller
+
+Folder: [`pwm_signal_example`](pwm_signal_example)
+
+## Telegram output control
+
+Controls an ESP32/ESP8266 LED from Telegram.
 
 <a href="https://youtu.be/n4pskPU4SnE">
-  <img src="https://img.youtube.com/vi/n4pskPU4SnE/0.jpg" alt="Watch the project video" width="480">
+  <img src="https://img.youtube.com/vi/n4pskPU4SnE/0.jpg" alt="Watch the Telegram example" width="480">
 </a>
 
-Based on: https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/
+Source: https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/
+
+Folder: [`telegram_output_control`](telegram_output_control)
