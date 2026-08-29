@@ -18,6 +18,10 @@ Controls an ESP32/ESP8266 LED from Telegram.
   <img src="https://img.youtube.com/vi/n4pskPU4SnE/0.jpg" alt="Watch the Telegram example" width="480">
 </a>
 
+<!-- GitHub removes iframes from rendered README files.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4pskPU4SnE" title="Telegram ESP32/ESP8266 output control"></iframe>
+-->
+
 Source: https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/
 
 Folder: [`telegram_output_control`](telegram_output_control)
